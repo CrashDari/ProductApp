@@ -1,0 +1,14 @@
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\bin\Debug\net9.0-windows\ProductViewerApp.exe
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\bin\Debug\net9.0-windows\ProductViewerApp.deps.json
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\bin\Debug\net9.0-windows\ProductViewerApp.runtimeconfig.json
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\bin\Debug\net9.0-windows\ProductViewerApp.dll
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\bin\Debug\net9.0-windows\ProductViewerApp.pdb
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\ProductViewerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\ProductViewerApp.AssemblyInfoInputs.cache
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\ProductViewerApp.AssemblyInfo.cs
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\ProductViewerApp.csproj.CoreCompileInputs.cache
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\ProductViewerApp.dll
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\refint\ProductViewerApp.dll
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\ProductViewerApp.pdb
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\ProductViewerApp.genruntimeconfig.cache
+C:\Users\d.krasheninnikova\RiderProjects\ProductViewerApp\ProductViewerApp\obj\Debug\net9.0-windows\ref\ProductViewerApp.dll

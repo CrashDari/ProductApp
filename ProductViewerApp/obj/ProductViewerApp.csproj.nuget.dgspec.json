@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\d.krasheninnikova\\RiderProjects\\ProductViewerApp\\ProductViewerApp\\ProductViewerApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\d.krasheninnikova\\RiderProjects\\ProductViewerApp\\ProductViewerApp\\ProductViewerApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\d.krasheninnikova\\RiderProjects\\ProductViewerApp\\ProductViewerApp\\ProductViewerApp.csproj",
+        "projectName": "ProductViewerApp",
+        "projectPath": "C:\\Users\\d.krasheninnikova\\RiderProjects\\ProductViewerApp\\ProductViewerApp\\ProductViewerApp.csproj",
+        "packagesPath": "C:\\Users\\d.krasheninnikova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d.krasheninnikova\\RiderProjects\\ProductViewerApp\\ProductViewerApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d.krasheninnikova\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
