@@ -7,6 +7,7 @@ partial class ProductListForm
     private System.ComponentModel.IContainer components = null;
     private System.Windows.Forms.ListBox listBox1;
 
+
     private void InitializeComponent()
     {
         this.listBox1 = new System.Windows.Forms.ListBox();
@@ -31,3 +32,4 @@ partial class ProductListForm
     }
     
 }
+

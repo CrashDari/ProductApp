@@ -2,17 +2,18 @@ namespace ProductViewerApp;
 
 public partial class ProductListForm : Form
 {
-    public ProductListForm()
+
+    public ProductListForm(List<string> products)
     {
         InitializeComponent();
-        LoadProducts();
+        LoadProducts(products);
     }
 
-    private void LoadProducts()
+    private void LoadProducts(List<string> products)
     {
-        // Для примера добавим несколько строк в listBox
-        listBox1.Items.Add("Product 1");
-        listBox1.Items.Add("Product 2");
-        listBox1.Items.Add("Product 3");
+        foreach (string product in products)
+        {
+            listBox1.Items.Add(product);
+        }
     }
 }
